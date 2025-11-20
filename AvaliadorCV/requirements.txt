@@ -1,0 +1,4 @@
+gradio
+requests
+pdfplumber
+python-dotenv
