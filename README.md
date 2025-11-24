@@ -1,4 +1,4 @@
-## SoulCode Academy | IA & LLM – Projetos Acadêmicos##
+## SoulCode Academy | IA & LLM – Projetos Acadêmicos ##
 Este repositório é dedicado ao compartilhamento de todo o meu aprendizado durante o curso de Inteligência Artificial e Modelos de Linguagem de Grande Escala (LLM) realizado pela SoulCode Academy, com carga horária total de 500 horas. Aqui, você encontrará uma seleção dos projetos acadêmicos desenvolvidos ao longo do curso, abordando conceitos fundamentais e avançados em IA e LLMs.
 
 O que você encontra neste repositório?
